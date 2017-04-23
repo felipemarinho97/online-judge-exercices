@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "files": [
+        "public_tests.py"
+      ],
+      "type": "script",
+      "script": "python public_tests.py"
+    }
+  ],
+  "331323396372c3fc9538a2f494bbefc2": {
+    "timestamp": "2016-08-21T20:41:34.054580",
+    "feedback": "",
+    "summary": "..."
+  },
+  "filename": "public_tests.py",
+  "tst_files": [],
+  "activity_revision": "1.0.1",
+  "key": "12537AE1000000",
+  "last_commit": "331323396372c3fc9538a2f494bbefc2"
+}

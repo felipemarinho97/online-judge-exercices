@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3 4 5\n2 2 10\nfim\n",
+      "name": "simples",
+      "output": "escalenos: 1\nnao triangulos: 1\n"
+    },
+    {
+      "category": "public",
+      "input": "3 4 5\n2 2 10\n5 5 5\n7 5 3\nfim\n",
+      "name": "simples 2",
+      "output": "equilateros: 1\nescalenos: 2\nnao triangulos: 1\n"
+    }
+  ],
+  "f784a2c4888b8654dfa4431a70a9d082": {
+    "timestamp": "2016-08-15T13:54:56.732100",
+    "feedback": "",
+    "summary": ".."
+  },
+  "activity_revision": "1.0.0",
+  "key": "12983E9E000000",
+  "last_commit": "f784a2c4888b8654dfa4431a70a9d082"
+}

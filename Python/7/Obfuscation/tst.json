@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "I love Python!\nfim\n",
+      "output": "1*70V3****pYTH0N!\n"
+    },
+    {
+      "category": "public",
+      "input": "while True:\n    if letra == \"B\":\n        letra = \"8\"\nfim\n",
+      "output": "WH173*****tRU3:\n1F**73TR4*****==**\"8\":\n73TR4*****=*\"B\"\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "1798a06c937a2d8197060041893e9a71": {
+    "timestamp": "2016-08-22T16:02:35.145420",
+    "feedback": "",
+    "summary": ".."
+  },
+  "key": "120739C1000000",
+  "last_commit": "1798a06c937a2d8197060041893e9a71"
+}

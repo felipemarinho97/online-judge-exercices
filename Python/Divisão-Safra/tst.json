@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "100\n9\n4\n",
+      "output": "Clientes no atacado = 11kg cada.\nClientes no varejo = 0.25kg cada.\n"
+    }
+  ],
+  "5c8e51c95988c1323f2d2e827f98c4e3": {
+    "timestamp": "2016-07-07T12:09:55.648000",
+    "feedback": "",
+    "summary": "...."
+  },
+  "activity_revision": "1.0.0",
+  "key": "1661C40E000000",
+  "last_commit": "5c8e51c95988c1323f2d2e827f98c4e3"
+}

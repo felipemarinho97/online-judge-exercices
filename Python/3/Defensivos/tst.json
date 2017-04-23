@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Herbicida\n30\n",
+      "output": "9 Herbicida(s). 900.00 reais.\n"
+    },
+    {
+      "category": "public",
+      "input": "Fungicida\n7\n",
+      "output": "1 Fungicida(s). 320.00 reais.\n"
+    }
+  ],
+  "9a63ce33e47b8d8ceb1a350e1550c5f6": {
+    "timestamp": "2016-07-14T18:22:13.039500",
+    "feedback": "",
+    "summary": "......."
+  },
+  "activity_revision": "1.1.1",
+  "key": "11F64936000000",
+  "last_commit": "9a63ce33e47b8d8ceb1a350e1550c5f6",
+  "b93b4e67c1cc572b875d3616e2ee6c84": {
+    "timestamp": "2016-07-14T18:21:07.310470",
+    "feedback": "",
+    "summary": "....FF."
+  }
+}

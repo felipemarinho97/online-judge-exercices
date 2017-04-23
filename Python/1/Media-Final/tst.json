@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "6.0\n5.0\n",
+      "output": "M\u00e9dia final: 5.6\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "f95c2be1872598c9f2125f88f4f663fa": {
+    "timestamp": "2016-07-05T18:29:36.912510",
+    "feedback": "",
+    "summary": ".."
+  },
+  "key": "1142A51E000000",
+  "last_commit": "f95c2be1872598c9f2125f88f4f663fa"
+}

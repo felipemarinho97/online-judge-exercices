@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "moto\n",
+      "output": "Ve\u00edculo n\u00e3o cadastrado.\n"
+    },
+    {
+      "category": "public",
+      "input": "Motocicleta\n",
+      "output": "Valor a pagar: R$ 5.70.\n"
+    },
+    {
+      "category": "public",
+      "input": "\u00d4nibus\n2\n",
+      "output": "Valor a pagar: R$ 22.80.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "f3d47e2b437269b72b33e25928a1573a": {
+    "timestamp": "2016-07-14T20:02:26.499150",
+    "feedback": "",
+    "summary": "........"
+  },
+  "key": "119A6C3E000000",
+  "last_commit": "f3d47e2b437269b72b33e25928a1573a"
+}

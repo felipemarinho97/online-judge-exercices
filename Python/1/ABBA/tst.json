@@ -1,0 +1,22 @@
+{
+  "ab0589184ec3e0d7514315e0819632f0": {
+    "timestamp": "2016-07-05T14:23:02.487120",
+    "feedback": "",
+    "summary": "....."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "Hello\nWorld\n",
+      "output": "ABBA: HelloWorldWorldHello\n"
+    },
+    {
+      "category": "public",
+      "input": "Bola\nCasa\n",
+      "output": "ABBA: BolaCasaCasaBola\n"
+    }
+  ],
+  "activity_revision": "1.1.2",
+  "key": "11C60556000000",
+  "last_commit": "ab0589184ec3e0d7514315e0819632f0"
+}

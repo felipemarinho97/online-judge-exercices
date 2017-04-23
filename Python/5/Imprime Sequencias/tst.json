@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n4 5 2 1 1\n5 7 8 9 2 3 10\n8 9 1 0 2 4 4 -1 7\n1 1 1 2 5 6\nfim\n",
+      "output": "sequencia 2: 5 7 8 9 2 3 10\nsequencia 3: 8 9 1 0 2 4 4 -1 7\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "1249527E000000",
+  "last_commit": "1929532fd88733a04f4fd3a4ce09ade9",
+  "f0922e2977c8aa6afc8e711d57f355aa": {
+    "timestamp": "2016-07-28T02:36:04.001200",
+    "feedback": "",
+    "summary": "......."
+  },
+  "1929532fd88733a04f4fd3a4ce09ade9": {
+    "timestamp": "2016-07-28T02:40:27.451100",
+    "feedback": "",
+    "summary": "......."
+  }
+}

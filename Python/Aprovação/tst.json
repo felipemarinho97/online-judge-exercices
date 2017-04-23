@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n9.27\n",
+      "output": "Unidade? M\u00e9dia de aprova\u00e7\u00e3o na unidade? \nO aluno vai para a unidade 5 com m\u00e9dia 9.3.\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "218eb0d71e54ba3d26bd0f92843ff7c7": {
+    "timestamp": "2016-07-07T12:19:27.323470",
+    "feedback": "",
+    "summary": "....."
+  },
+  "key": "16315C36000000",
+  "last_commit": "218eb0d71e54ba3d26bd0f92843ff7c7"
+}

@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1 2 5\n4 4 3\n4 2 0\n5\n",
+      "output": "7\n1\nErro: Divis\u00e3o por 0\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "386e1787ac3363830dddc8565e4d6425": {
+    "timestamp": "2016-08-25T19:10:40.796120",
+    "feedback": "",
+    "summary": "......."
+  },
+  "key": "129C244E000000",
+  "last_commit": "386e1787ac3363830dddc8565e4d6425"
+}
