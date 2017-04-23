@@ -1,0 +1,15 @@
+/* Produto Simples
+* Felipe Marinho (C) | <felipe.marinho@ccc.ufcg.edu.br>*/
+
+#include <stdio.h>
+
+int main() {
+	int a, b, prod;
+
+	scanf("%d", &a);
+	scanf("%d", &b);
+	
+	prod = a*b;
+	
+	printf("PROD = %d\n", prod);
+}

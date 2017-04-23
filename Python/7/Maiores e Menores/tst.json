@@ -1,0 +1,17 @@
+{
+  "7e966b00151f8102436bfe2b85b0e251": {
+    "timestamp": "2016-08-25T18:37:09.009430",
+    "feedback": "",
+    "summary": "......."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n8\n3\n9\n2\n0\n5\n-1\n",
+      "output": "[3, 2, 0]\n4\n[8, 9, 5]\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "10AF1F81000000",
+  "last_commit": "7e966b00151f8102436bfe2b85b0e251"
+}

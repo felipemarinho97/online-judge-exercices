@@ -1,0 +1,32 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "40.0\n20.0\n100.0\n10.0\n",
+      "output": "6.0\n"
+    }
+  ],
+  "filename": "operadores.py",
+  "tst_files": [],
+  "03087d246bbf1bbf508f56d58216d7e0": {
+    "timestamp": "2016-06-30T00:08:55.187700"
+  },
+  "activity_revision": "1.0.0",
+  "key": "1129EFF6000000",
+  "last_commit": "44347c3a38db683c7a3bfd403504b193",
+  "451769afa9afabea924d99cb458d2e2d": {
+    "timestamp": "2016-06-30T00:33:12.016860",
+    "feedback": "",
+    "summary": "...."
+  },
+  "142f7a2813464d72635a70bc679cb23c": {
+    "timestamp": "2016-06-30T00:45:27.693720",
+    "feedback": "",
+    "summary": "...."
+  },
+  "44347c3a38db683c7a3bfd403504b193": {
+    "timestamp": "2016-06-30T00:57:18.683560",
+    "feedback": "",
+    "summary": "...."
+  }
+}

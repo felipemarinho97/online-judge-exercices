@@ -1,0 +1,18 @@
+{
+  "6168edd0859f23458ffc4348adb90121": {
+    "timestamp": "2016-09-01T00:37:04.872010",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "vicente\nbianca\ncarlos\nantonio\nzelia\n####\n",
+      "name": "exemplo1",
+      "output": "* vicente\n----\n* bianca\nvicente\n----\nbianca\n* carlos\nvicente\n----\n* antonio\nbianca\ncarlos\nvicente\n----\nantonio\nbianca\ncarlos\nvicente\n* zelia\n----\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "12F32081000000",
+  "last_commit": "6168edd0859f23458ffc4348adb90121"
+}

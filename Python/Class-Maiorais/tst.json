@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n1\n",
+      "output": "Campinense\n"
+    },
+    {
+      "category": "public",
+      "input": "2\n2\n",
+      "output": "Empate\n"
+    },
+    {
+      "category": "public",
+      "input": "2\n4\n",
+      "output": "Treze\n"
+    }
+  ],
+  "bdfe2a764cb3bd68dbc6211ff3984ae3": {
+    "timestamp": "2016-07-15T02:25:15.081350",
+    "feedback": "",
+    "summary": "......."
+  },
+  "activity_revision": "1.1.0",
+  "key": "12523DB6000000",
+  "last_commit": "bdfe2a764cb3bd68dbc6211ff3984ae3"
+}

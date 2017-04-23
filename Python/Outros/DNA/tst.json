@@ -1,0 +1,102 @@
+{
+  "e5ad66716741afee54183db65cb145f7": {
+    "timestamp": "2016-07-21T20:24:50.099950",
+    "feedback": "",
+    "summary": ".......F"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "ATCGAAGT\nATGCTTAT\n",
+      "output": "nao\n"
+    },
+    {
+      "category": "public",
+      "input": "ATCGAAGT\nAGCTAAGT\n",
+      "output": "sim\n"
+    },
+    {
+      "category": "public",
+      "input": "ATCGAAGTCD\nAGCTAAGTCE\n",
+      "output": "sim\n"
+    }
+  ],
+  "dbf7bbfbccc4fff8f37b1ce7cc57b76f": {
+    "timestamp": "2016-07-20T16:42:20.925370",
+    "feedback": "",
+    "summary": ".......F"
+  },
+  "8b49dc81928764ecfe21adb26df7be6d": {
+    "timestamp": "2016-07-20T16:41:43.595930",
+    "feedback": "",
+    "summary": "..FF...."
+  },
+  "0931c2f7787f76a5218e8a8b645d10f4": {
+    "timestamp": "2016-07-21T20:28:39.132320",
+    "feedback": "",
+    "summary": ".......F"
+  },
+  "5df6b817d3693069b1dd72fb9d563083": {
+    "timestamp": "2016-07-21T20:24:29.392710",
+    "feedback": "",
+    "summary": "...F...."
+  },
+  "8ae7bebbf1069bbf08e23a1834b9ac73": {
+    "timestamp": "2016-07-20T16:42:49.302350",
+    "feedback": "",
+    "summary": ".......F"
+  },
+  "2e18032d74e0bcd9b98b6c97224e4ea7": {
+    "timestamp": "2016-07-20T16:32:05.899250",
+    "feedback": "",
+    "summary": "...FFF.."
+  },
+  "5999774a46175ac1fd27964666a4b936": {
+    "timestamp": "2016-07-21T20:29:49.021360",
+    "feedback": "",
+    "summary": "........"
+  },
+  "c397a63dc0058127b78f53d2af469cb5": {
+    "timestamp": "2016-07-20T16:30:15.466220",
+    "feedback": "",
+    "summary": "...F...."
+  },
+  "7a835de5466d5d94da9a4ef8013e59eb": {
+    "timestamp": "2016-07-19T14:28:31.136510",
+    "feedback": "",
+    "summary": "...FFF.."
+  },
+  "d85482bcac9143441b7ef675b56bded7": {
+    "timestamp": "2016-07-20T16:42:05.839000",
+    "feedback": "",
+    "summary": "..F....F"
+  },
+  "key": "12EBFBFE000000",
+  "152f0b4dcb2fe474e5dc4b40f6e4545d": {
+    "timestamp": "2016-07-20T16:32:51.669660",
+    "feedback": "",
+    "summary": "...F...."
+  },
+  "activity_revision": "1.0.0",
+  "aaac9dd22be5c93307743c25caec8cec": {
+    "timestamp": "2016-07-21T20:24:37.124960",
+    "feedback": "",
+    "summary": "..F....F"
+  },
+  "last_commit": "76c2c5f3e4f4fd446fc8c2ae561c7775",
+  "76c2c5f3e4f4fd446fc8c2ae561c7775": {
+    "timestamp": "2016-07-21T20:31:16.184140",
+    "feedback": "",
+    "summary": "........"
+  },
+  "447e8d351d7cbbd2daa765f58055f268": {
+    "timestamp": "2016-07-20T16:16:25.963380",
+    "feedback": "",
+    "summary": "...FFF.."
+  },
+  "3c90666e0592fc30614b52f9fe6ed9cb": {
+    "timestamp": "2016-07-21T20:28:49.853300",
+    "feedback": "",
+    "summary": "..F....F"
+  }
+}

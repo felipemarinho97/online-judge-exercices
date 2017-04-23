@@ -1,0 +1,16 @@
+{
+  "0bd42bc6868484974e41d90c2c599b5d": {
+    "timestamp": "2016-09-28T17:48:31.754240"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "C O 2\nH 2 O\nfim\n",
+      "name": "exemplo 1",
+      "output": "C=27.27\nO=72.73\n---\nH=11.11\nO=88.89\n---\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "12BD0CF1000000",
+  "last_commit": "0bd42bc6868484974e41d90c2c599b5d"
+}

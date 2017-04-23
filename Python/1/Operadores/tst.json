@@ -1,0 +1,20 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n2\n",
+      "name": "exemplo",
+      "output": "===== Operadores =====\nA = 4\nB = 2\nAdi\u00e7\u00e3o = 6\nSubtra\u00e7\u00e3o = 2\nMultiplica\u00e7\u00e3o = 8\nDivis\u00e3o = 2\nResto = 0\nExponencia\u00e7\u00e3o = 16\nNega\u00e7\u00e3o de A = -4\nA \u00e9 igual a B? False\nA \u00e9 diferente de B? True\nA \u00e9 maior que B? True\nB \u00e9 maior que A? False\nA \u00e9 menor ou igual a B? False\n"
+    }
+  ],
+  "f24615a39f3b0900947fb47cb1b05287": {
+    "timestamp": "2016-07-05T17:37:21.131270",
+    "feedback": "",
+    "summary": "....."
+  },
+  "filename": "operadores.py",
+  "tst_files": [],
+  "activity_revision": "1.2.0",
+  "key": "13EA800E000000",
+  "last_commit": "f24615a39f3b0900947fb47cb1b05287"
+}

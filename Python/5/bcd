@@ -1,0 +1,17 @@
+# coding: utf-8
+# BCD
+# Felipe Marinho (C) | 116110223 | <felipe.marinho@ccc.ufcg.edu.br>
+
+binarios = []
+
+while True:
+	entrada = int(raw_input())
+	if binario == "fim":
+		break
+	else:
+		binarios.append(entrada)
+
+for i in range(len(binarios)):
+	if len(binarios[i]) != 8:
+		print "Tente novamente."
+	

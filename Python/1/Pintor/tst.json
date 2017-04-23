@@ -1,0 +1,18 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n5\n",
+      "name": "exemplo",
+      "output": "R$ 200.00\n"
+    }
+  ],
+  "4e8ed1d03cfab3683a0a3165a57e6ccd": {
+    "timestamp": "2016-07-05T18:56:10.897300",
+    "feedback": "",
+    "summary": "........"
+  },
+  "activity_revision": "2.0.0",
+  "key": "16C3980E000000",
+  "last_commit": "4e8ed1d03cfab3683a0a3165a57e6ccd"
+}

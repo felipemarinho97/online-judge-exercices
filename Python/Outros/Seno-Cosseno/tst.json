@@ -1,0 +1,17 @@
+{
+  "bf1004b7e4577bb4360d6ff8f7d0b8a5": {
+    "timestamp": "2016-07-20T18:33:37.722390",
+    "feedback": "",
+    "summary": "."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "0.0\n30.0\n4\n",
+      "output": "|Angulo|   Seno|Cosseno|\n|   0.0|0.00000|1.00000|\n|  30.0|0.50000|0.86603|\n|  60.0|0.86603|0.50000|\n|  90.0|1.00000|0.00000|\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "1218D07E000000",
+  "last_commit": "bf1004b7e4577bb4360d6ff8f7d0b8a5"
+}

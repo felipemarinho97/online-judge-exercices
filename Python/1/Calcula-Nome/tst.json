@@ -1,0 +1,18 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Carolina\n10\n",
+      "name": "exemplo",
+      "output": "Nome? Letra? R$ Or\u00e7amento: R$ 80.0\n"
+    }
+  ],
+  "6182c36ad0e442db09659aebb3ceb594": {
+    "timestamp": "2016-07-05T18:43:27.502190",
+    "feedback": "",
+    "summary": "..."
+  },
+  "activity_revision": "1.0.0",
+  "key": "1261C40E000000",
+  "last_commit": "6182c36ad0e442db09659aebb3ceb594"
+}

@@ -1,0 +1,16 @@
+{
+  "e7bae9dbd999678c1daa75b077cd4753": {
+    "timestamp": "2016-07-05T19:00:19.807480",
+    "feedback": "",
+    "summary": ".."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "output": "{{Hello}} {{World}}!\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1606051E000000",
+  "last_commit": "e7bae9dbd999678c1daa75b077cd4753"
+}
